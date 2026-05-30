@@ -74,7 +74,7 @@ I have no plans to extend this specific repository. It exists as a snapshot of w
 
 
 [ Screenshot ]
-![Tic-Tac-Toe UI Layout](./screenshot.png)
+![Tic-Tac-Toe UI Layout](./Screenshot.png)
 
 *A static HTML/CSS layout with hardcoded X and O values — built using `float: left` for grid positioning and `display: flex` for cell alignment.*
 
